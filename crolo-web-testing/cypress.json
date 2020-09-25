@@ -1,0 +1,12 @@
+{
+  "pluginsFile": "cypress/plugins/plugins.js",
+  "integrationFolder": "cypress/integration/crolo",
+  "testFiles": [
+    "upload_asset/upload_image_asset/*.js",
+    "upload_asset/upload_logo_asset/*.js",
+    "upload_asset/upload_text_asset/*.js",
+    "delete_asset/*.js",
+    "banner/*.js",
+    "catalog_asset/*.js"
+  ]
+}

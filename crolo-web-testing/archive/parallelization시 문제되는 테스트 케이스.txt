@@ -1,0 +1,8 @@
+Crolo 
+
+parallelization시 문제되는 테스트 케이스(- 대부분 번호로 프로젝트 선택하는 테스트 케이스)
+"프로젝트 선택 창 - 전체 어셋 삭제"
+프로젝트 선택 후 - 이미지 어셋 삭제
+프로젝트 선택 후 - 로고 어셋 삭제
+프로젝트 선택 후 - 텍스트 어셋 삭제
+성공할 일반 이미지 어셋 업로드(transparent/non-transparent) - uploadImageAssetAfter 부분

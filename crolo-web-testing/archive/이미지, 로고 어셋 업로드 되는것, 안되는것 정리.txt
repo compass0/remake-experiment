@@ -1,0 +1,38 @@
+jpg image 어셋 non-transparent
+
+'100x66.jpg' X
+'200x133.jpg' X
+'300x200.jpg' X
+'400x266.jpg' X
+'500x333.jpg' X
+'700x466.jpg' X
+'900x600.jpg' X
+'1000x666.jpg' O
+'1100x732.jpg' O
+'1200x800.jpg' O
+
+jpg image 어셋 Transparent
+
+'100x66.jpg' X
+'200x133.jpg' X
+'300x199.jpg' X
+'400x266.jpg' X
+'500x333.jpg' X
+'700x466.jpg' X
+'900x600.jpg' X
+'1000x666.jpg' O
+'1100x732.jpg' O
+'1200x800.jpg' O
+
+png image 어셋 non-transparent
+
+'100x66.jpg' 
+'200x133.jpg' 
+'300x200.jpg' 
+'400x266.jpg' 
+'500x333.jpg' 
+'700x466.jpg' 
+'900x600.jpg' 
+'1000x666.jpg' 
+'1100x732.jpg' 
+'1200x800.jpg' 
